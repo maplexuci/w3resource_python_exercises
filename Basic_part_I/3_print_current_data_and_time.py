@@ -4,7 +4,6 @@
 # 2014-07-05 14:34:14
 
 
-
 from datetime import datetime
 
 date_time = datetime.now()
