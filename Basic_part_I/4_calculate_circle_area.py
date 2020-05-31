@@ -2,9 +2,7 @@
 # from the user and compute the area.
 
 
-import math
-
-pi = math.pi
+from math import pi
 
 
 def circle_area(radius):
